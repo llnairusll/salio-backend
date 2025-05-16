@@ -1,0 +1,7 @@
+{
+  "lidar_port": "/dev/lidar",
+  "rfid_device": "/dev/rfid",
+  "server_port": 5000,
+  "api_endpoint": "/api",
+  "enable_cors": true
+}
